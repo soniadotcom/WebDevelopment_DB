@@ -1,0 +1,5 @@
+modules/
+/Open Server.exe
+userdata/*
+!MySQL-8.0
+.idea
