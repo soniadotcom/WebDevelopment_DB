@@ -2,4 +2,7 @@ modules/
 /Open Server.exe
 userdata/*
 !MySQL-8.0
+MySQL-8.0/*
+!busschedule
+!web_schema
 .idea
